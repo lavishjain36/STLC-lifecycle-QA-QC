@@ -1,0 +1,52 @@
+Date:20th Jan,2023
+Agenda:
+Level of testing:This concept is basically used to ensure the quality and
+functionality of a software application.It includes several category:
+1.Unit Testing:
+This is the lowest level of testing,where individual units or components of the code are tested in isolation.unit test are typically written by developers to verify if the functionality/method created is providing expected result or not.
+Ex:E-commerce=>calculation of the sum of all product to ensure that it return the correct result of all product.
+A team of developer who is working on e-com app to perform a unit testing on individual function for their shopping cart features.
+
+
+2.Integration Testing:This is the level of testing that is used to test interaction b/w different unit or components of the code.we integrate all the component to check how they behave when merge togther.
+Ex:Tester team perform integration testing to ensure if shopping cart features is working with other parts of the website like login,payment,checkout,transaction etc.
+
+frontend and backend
+
+3.System Testing:
+This is level of testing focuses on testing entire software application as whole.It includes all the features and functions of software a whole  for ready to release product.
+Ex:After the integration testing,system testing is done to ensure that entire website is working as expected.
+
+4.Acceptance testing:This is testing to ensure that it meets the requirement of the customer or end-user.
+
+
+5.Performance Testing:This is testing focuses on the software under different loads and stress.to ensure if my app can handle a large no. of user or not.or transactions or not.
+Ex:When concurrent users comes to e-comm app to perform the transaction,sites is crashed.
+
+6.Security testing:This is level of testing to check if software is protected agains malicious attacks and data breaches.
+ex:when submitting a form data, it should prevent from any kind of attacks.
+SQL injections attacks.
+
+
+3.System Testing
+4.Acceptance Testing
+5.Performance Testing
+6.Security Testing
+
+
+
+
+Software Testing Life Cycle(STLC)
+Stages of Testing
+QA & QC & Testing"
+Quality Assurance.
+Quality Control.
+
+
+
+
+QA-Quality assurence
+to prevent defect and ensure that product or serves meeth the require high quality standards.
+
+QC->Quality Control
+to identity and correct the defects that have occured.
