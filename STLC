@@ -50,3 +50,73 @@ to prevent defect and ensure that product or serves meeth the require high quali
 
 QC->Quality Control
 to identity and correct the defects that have occured.
+
+
+STLC:
+What is STLC?
+STLC:
+it is iterative approach that start with requirement analysis and ends with test reporting.The process is repeated untill the software meet the required quality standars and good fit for release.
+
+1.Requirement Analysis:it is phase of understanding the requirement and objective of the software.
+For ex.ecommerce app->platform,user authentication,payement process& inventory management.
+
+2.Test planning:Team creates a test plan for entire app that you are going to develop.it should include testing approach,resources and schedule.Team 
+identified the type of testing that will performed on ->functional,performance,security testing.
+
+
+3.Test design:it is process of creating a test cases,test scripts, and test data.it should include test user login& Registration process,payment process and features accessing.
+
+
+4.Test Execution:Team runs the testcases ,scripts and record the results.
+team identify and report the issue found during testing.
+
+
+5.Test closure:Team finalize the entire testing process.it is like a review of software to meet the quality standards.
+
+6.Test Reporting:Team creates a reports to communicate the result of testing with stakeholders.->Software dev.team,project manager,tester,client 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
